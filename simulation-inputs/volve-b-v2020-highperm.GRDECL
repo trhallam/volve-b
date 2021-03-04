@@ -1,4 +1,7 @@
 SWOF                                   -- Generated : Petrel
+--  Water Saturation     Water Rel Perm       Oil Rel Perm          Water-Oil
+--                                                             Capiliary Pres
+--                                                                      (bar)
                    0                  0                  1        87.48106702
          0.022880691    0.0006274337278       0.9247983899                4.5
           0.02303062    0.0006315450771       0.9243056206        3.956254691
@@ -43,6 +46,9 @@ SWOF                                   -- Generated : Petrel
   /
 
 SGOF                                   -- Generated : Petrel
+--    Gas Saturation       Gas Rel Perm       Oil Rel Perm            Oil-Gas
+--                                                             Capiliary Pres
+--                                                                      (bar)
                    0                  0                  1                  0
                 0.05               0.05           0.857375                  0
                  0.1                0.1              0.729                  0
