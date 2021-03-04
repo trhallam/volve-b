@@ -24,8 +24,8 @@ A paper supporting this work is in progress and will be made available when poss
 
 ## Raw Inputs
 
- - `wells`
- - `ecl_basics`
+ - `wells` - Well related data and interpretation.
+ - `simulation-inputs` - Simplified pre-processing inputs for black oil simulation.
 
 
 ## Model
